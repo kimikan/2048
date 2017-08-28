@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">2048</string>
+    <string name="tips_2048">恭喜你， 你已经完成了2048，最终目标是4096， 加油！</string>
+    <string name="success_title">党中央来电</string>
+    <string name="success_text">恭喜你完成目标， 再玩一次 ?</string>
+    <string name="failed_title">很遗憾</string>
+	<string name="failed_text">失败了，不要灰心, 再接再厉 !</string>
+	
+</resources>
